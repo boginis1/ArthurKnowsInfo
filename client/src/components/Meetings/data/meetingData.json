@@ -1,0 +1,48 @@
+[
+	{
+		"date": "December 1, 1942",
+		"meetings": [
+		 	{
+		 		"title": "Living In Infamy",
+		 		"participants": [
+			 	 	{ "name": "Franklin Roosevelt",
+			 	 	 "email": "potus@whitehouse.gov"
+			 	 	},
+			 	 	{ "name": "John Voigt",
+			 	 	 "email": "john@meetup.com"
+			 	 	}
+		 		]
+		 	},
+			{
+		 		"title": "Bombing",
+		 		"participants": [
+			 	 	{ "name": "The Dude",
+			 	 	 "email": "potus@whitehouse.gov"
+			 	 	},
+			 	 	{ "name": "John Smith",
+			 	 	 "email": "johnsmith@meetup.com"
+			 	 	}
+		 		]
+		 	}
+		]
+	},
+	{
+		"date": "April 20, 2018",
+		"meetings": [
+			{
+				"title": "Fix The Bugs!",
+				"participants": [
+					{ "name": "Steve Marshall",
+					 "email": "stevesonoa@gmail.com"
+					},
+					{ "name": "Holly Zorba",
+					 "email": "hzoba@gmail.com"
+					},
+					{ "name": "Eric Tenenbaum",
+					 "email": "eric-tenenbaum@gmail.com"
+					}
+				]
+			}
+		]
+	}
+]

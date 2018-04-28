@@ -1,0 +1,23 @@
+[
+	{
+		"img": "./img/steve.png",
+		"name": "Steve Marshall",
+		"linkedin": "https://www.linkedin.com/in/sonoa/",
+		"title": "React, UI/UX, Client-side Data, Graphic Design, CSS",
+		"description": "Steve likes coding. He's pretty awesome."
+	},
+	{
+		"img": "./img/eric.jpg",
+		"name": "Eric Tenenbaum",
+		"linkedin": "https://www.linkedin.com/in/eric-tenenbaum/",
+		"title": "Express, Search Logic, Web Scraping, Server Data",
+		"description": "Eric likes coding. He's pretty awesome."
+	},
+	{
+		"img": "./img/holly.jpg",
+		"name": "Holly Zoba",
+		"linkedin": "https://www.linkedin.com/in/hollyzoba/",
+		"title": "MongoDB, External API Management, oAuth Specialist",
+		"description": "Holly likes coding. She's pretty awesome, too."
+	}
+]

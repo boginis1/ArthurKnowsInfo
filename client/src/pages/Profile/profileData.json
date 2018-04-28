@@ -1,0 +1,15 @@
+{
+	"_id": 1234567890,
+	"fullName": "Steve Marshall",
+	"email": "stevesonoa@gmail.com",
+	"dob": "12/09/1979",
+	"linkedin": "stevesonoa",
+	"gender": "male",
+	"google_oAuth_token": "h89yhn920hvn389b0q5y9y7b99vb385g5vb8937w5y7nc2o94vb238597ynhtrekuhnrcoqnebiveshuseirgchiwz",
+	"facebook_access_token": "jfhr39yqn50nu3b87v9un54h238o9udp4iqj2482ioutgf5ce]yurvwrchwsl",
+	"google_calendar_tolen": "jifn4ou2i0[im09qm01uc9qnr2828xu4093uw4c7tw89349aumxp9uc3nsrocsuw3",
+	"billingTier": 3,
+	"company": "State Farm",
+	"title": "Auto Complex Claims Adjuster",
+	"sarcasm": 2
+}
