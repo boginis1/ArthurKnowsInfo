@@ -125,6 +125,7 @@ const bingSearch = {
       const resultsArray = [];
       console.log("######", company);
 
+
         return new Promise((resolve, reject) => {
           // Checking incoming params:
           // console.log(firstName, lastName, city, cityIndex);
@@ -170,7 +171,7 @@ const bingSearch = {
 
 
                 // return bingSearch.regularSearch(firstName, lastName, cityIndex + 1);
-                 return bingSearch.regularSearch(firstName, lastName, company, cityIndex + 1);
+                bingSearch.regularSearch(firstName, lastName, company, cityIndex + 1);
 
 
 

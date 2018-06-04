@@ -6,13 +6,7 @@
 		"title": "React, UI/UX, Client-side Data, Graphic Design, CSS",
 		"description": "Steve likes coding. He's pretty awesome."
 	},
-	{
-		"img": "./img/eric.jpg",
-		"name": "Eric Tenenbaum",
-		"linkedin": "https://www.linkedin.com/in/eric-tenenbaum/",
-		"title": "Express, Search Logic, Web Scraping, Server Data",
-		"description": "Eric likes coding. He's pretty awesome."
-	},
+	
 	{
 		"img": "./img/holly.jpg",
 		"name": "Holly Zoba",
